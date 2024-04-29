@@ -1,0 +1,6 @@
+npx create-expo-app jest-test
+cd jest-test
+npm i --save-dev jest
+npm i --save-dev react-test-renderer
+
+mkdir __tests__
